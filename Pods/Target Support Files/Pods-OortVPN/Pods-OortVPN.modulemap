@@ -1,0 +1,6 @@
+framework module Pods_OortVPN {
+  umbrella header "Pods-OortVPN-umbrella.h"
+
+  export *
+  module * { export * }
+}
