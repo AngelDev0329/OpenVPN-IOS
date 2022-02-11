@@ -11,8 +11,6 @@
 		<string>allow-vpn</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
-	<array>
-		<string>group.com.yaooort.oortvpn</string>
-	</array>
+	<array/>
 </dict>
 </plist>
